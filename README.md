@@ -1,4 +1,6 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=Waving&color=0:DCE2F0,100:50586C&height=200&section=header&text=Hyuneun&fontSize=45&fontAlign=20&fontAlignY=36)
+
+<h4>Hi, I'm Hyuneun 👩🏻‍💻</h4>
 
 <!--
 **hyuneu-n/hyuneu-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
