@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=0:DCE2F0,100:50586C&height=200&section=header&text=Hyuneun&fontSize=45&fontAlign=20&fontAlignY=36)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pretendard&weight=500&pause=1000&color=141414&random=false&width=435&lines=WELCOME+TO+HYUNEUN'S+GITHUB👻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pretendard&weight=500&pause=1000&color=64C46E&random=false&width=435&lines=WELCOME+TO+HYUNEUN'S+GITHUB👻)](https://git.io/typing-svg)
 
 <h2>☁️ SKILL </h2>
 
